@@ -238,7 +238,48 @@
     { "local": "Irlanda del Norte", "visitante": "Alemania", "fecha": "2025-10-12T22:00:00" },
     { "local": "España", "visitante": "Georgia", "fecha": "2025-10-12T22:00:00" }
   ]
+},
+  {
+  "numero": 13,
+  "partidos": [
+    { "local": "Estonia", "visitante": "Moldavia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Turquía", "visitante": "Georgia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Portugal", "visitante": "Hungría", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Rep. Irlanda", "visitante": "Armenia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Letonia", "visitante": "Inglaterra", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Andorra", "visitante": "Serbia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Qatar", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Arabia Saudí", "visitante": "Irak", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Canadá", "visitante": "Colombia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Estados Unidos", "visitante": "Australia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "A Determinar", "visitante": "Trinidad y Tobago", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Jamaica", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Panamá", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "El Salvador", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "España", "visitante": "Bulgaria", "fecha": "2025-10-14T22:00:00" }
+  ]
+},
+  {
+  "numero": 13,
+  "partidos": [
+    { "local": "Estonia", "visitante": "Moldavia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Turquía", "visitante": "Georgia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Portugal", "visitante": "Hungría", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Rep. Irlanda", "visitante": "Armenia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Letonia", "visitante": "Inglaterra", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Andorra", "visitante": "Serbia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Qatar", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Arabia Saudí", "visitante": "Irak", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Canadá", "visitante": "Colombia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Estados Unidos", "visitante": "Australia", "fecha": "2025-10-14T22:00:00" },
+    { "local": "A Determinar", "visitante": "Trinidad y Tobago", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Jamaica", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "Panamá", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "El Salvador", "visitante": "A Determinar", "fecha": "2025-10-14T22:00:00" },
+    { "local": "España", "visitante": "Bulgaria", "fecha": "2025-10-14T22:00:00" }
+  ]
 }
 ]  
+
 
 
