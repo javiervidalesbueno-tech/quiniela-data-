@@ -2,49 +2,242 @@
   {
     "numero": 1,
     "partidos": [
-      { "local": "Real Madrid", "visitante": "Barcelona", "fecha": "2025-10-10" },
-      { "local": "Valencia", "visitante": "Sevilla", "fecha": "2025-10-11" },
-      { "local": "Betis", "visitante": "Atlético de Madrid", "fecha": "2025-10-12" }
+      { "local": "Girona", "visitante": "Rayo V.", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Villarreal", "visitante": "Oviedo", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Alavés", "visitante": "Levante", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Mallorca", "visitante": "Barcelona", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Valencia", "visitante": "R. Sociedad", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Celta", "visitante": "Getafe", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Athletic Club", "visitante": "Sevilla", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Espanyol", "visitante": "At. Madrid", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Racing", "visitante": "Castellón", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Málaga", "visitante": "Eibar", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Granada", "visitante": "Deportivo", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Cádiz", "visitante": "Mirandés", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Huesca", "visitante": "Leganés", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Las Palmas", "visitante": "Andorra", "fecha": "2025-08-17T22:00:00" },
+      { "local": "Elche", "visitante": "Betis", "fecha": "2025-08-17T22:00:00" }
     ]
   },
   {
     "numero": 2,
     "partidos": [
-      { "local": "Osasuna", "visitante": "Cádiz", "fecha": "2025-10-17" },
-      { "local": "Villarreal", "visitante": "Granada", "fecha": "2025-10-18" },
-      { "local": "Getafe", "visitante": "Alavés", "fecha": "2025-10-19" }
+      { "local": "Mallorca", "visitante": "Celta", "fecha": "2025-08-24T22:00:00" },
+      { "local": "At. Madrid", "visitante": "Elche", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Levante", "visitante": "Barcelona", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Osasuna", "visitante": "Valencia", "fecha": "2025-08-24T22:00:00" },
+      { "local": "R. Sociedad", "visitante": "Espanyol", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Villarreal", "visitante": "Girona", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Oviedo", "visitante": "R. Madrid", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Athletic Club", "visitante": "Rayo V.", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Mirandés", "visitante": "Huesca", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Ceuta", "visitante": "Sporting", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Zaragoza", "visitante": "Andorra", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Deportivo", "visitante": "Burgos", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Cult.Leonesa", "visitante": "Almería", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Albacete", "visitante": "Racing", "fecha": "2025-08-24T22:00:00" },
+      { "local": "Sevilla", "visitante": "Getafe", "fecha": "2025-08-24T22:00:00" }
     ]
   },
   {
     "numero": 3,
     "partidos": [
-      { "local": "Athletic Club", "visitante": "Girona", "fecha": "2025-10-24" },
-      { "local": "Mallorca", "visitante": "Las Palmas", "fecha": "2025-10-25" },
-      { "local": "Rayo Vallecano", "visitante": "Celta", "fecha": "2025-10-26" }
+      { "local": "Alavés", "visitante": "At. Madrid", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Oviedo", "visitante": "Real Sociedad", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Girona", "visitante": "Sevilla", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Real Madrid", "visitante": "Mallorca", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Celta", "visitante": "Villarreal", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Betis", "visitante": "Athletic Club", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Espanyol", "visitante": "Osasuna", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Racing", "visitante": "Ceuta", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Valladolid", "visitante": "Córdoba", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Castellón", "visitante": "Zaragoza", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Andorra", "visitante": "Burgos", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Cádiz", "visitante": "Albacete", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Las Palmas", "visitante": "Málaga", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Granada", "visitante": "Mirandés", "fecha": "2025-08-31T22:00:00" },
+      { "local": "Rayo Vallecano", "visitante": "Barcelona", "fecha": "2025-08-31T22:00:00" }
     ]
   },
   {
-    "numero": 4,
-    "partidos": [
-      { "local": "Barcelona", "visitante": "Valencia", "fecha": "2025-10-31" },
-      { "local": "Sevilla", "visitante": "Real Madrid", "fecha": "2025-11-01" },
-      { "local": "Atlético de Madrid", "visitante": "Betis", "fecha": "2025-11-02" }
+ "numero": 4,
+  "partidos": [
+    { "local": "Deportivo", "visitante": "Sporting", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Zaragoza", "visitante": "Valladolid", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Málaga", "visitante": "Granada", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Ceuta", "visitante": "Huesca", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Burgos", "visitante": "Las Palmas", "fecha": "2025-09-07T22:00:00" },
+    { "local": "R. Sociedad B", "visitante": "Cádiz", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Almería", "visitante": "Racing", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Cultural Leonesa", "visitante": "Leganés", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Barcelona", "visitante": "Espanyol", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Real Madrid", "visitante": "Getafe", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Mallorca", "visitante": "Levante", "fecha": "2025-09-07T22:00:00" },
+    { "local": "At. Madrid", "visitante": "Betis", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Sevilla", "visitante": "Rayo V.", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Villarreal", "visitante": "Celta", "fecha": "2025-09-07T22:00:00" },
+    { "local": "Valencia", "visitante": "Athletic Club", "fecha": "2025-09-07T22:00:00" }
     ]
   },
-  {
+   {
     "numero": 5,
     "partidos": [
-      { "local": "Cádiz", "visitante": "Osasuna", "fecha": "2025-11-07" },
-      { "local": "Granada", "visitante": "Villarreal", "fecha": "2025-11-08" },
-      { "local": "Alavés", "visitante": "Getafe", "fecha": "2025-11-09" }
+      { "local": "Getafe", "visitante": "Oviedo", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Levante", "visitante": "Betis", "fecha": "2025-09-14T22:00:00" },
+      { "local": "At. Madrid", "visitante": "Villarreal", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Barcelona", "visitante": "Valencia", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Athletic Club", "visitante": "Alavés", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Real Sociedad", "visitante": "Real Madrid", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Celta", "visitante": "Girona", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Osasuna", "visitante": "Rayo Vallecano", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Cádiz", "visitante": "Eibar", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Mirandés", "visitante": "Deportivo", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Huesca", "visitante": "Málaga", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Valladolid", "visitante": "Almería", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Sporting", "visitante": "Burgos", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Granada", "visitante": "Leganés", "fecha": "2025-09-14T22:00:00" },
+      { "local": "Espanyol", "visitante": "Mallorca", "fecha": "2025-09-14T22:00:00" }
     ]
   },
   {
     "numero": 6,
     "partidos": [
-      { "local": "Girona", "visitante": "Athletic Club", "fecha": "2025-11-14" },
-      { "local": "Las Palmas", "visitante": "Mallorca", "fecha": "2025-11-15" },
-      { "local": "Celta", "visitante": "Rayo Vallecano", "fecha": "2025-11-16" }
+      { "local": "Athletic Club", "visitante": "Arsenal", "fecha": "2025-09-17T01:00:00" },
+      { "local": "PSV", "visitante": "Royale Unión SG", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Benfica", "visitante": "Qarabag", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Juventus", "visitante": "Borussia Dortmund", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Real Madrid", "visitante": "Marsella", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Tottenham", "visitante": "Villarreal", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Ajax", "visitante": "Inter de Milán", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Bayern de Múnich", "visitante": "Chelsea", "fecha": "2025-09-17T01:00:00" },
+      { "local": "PSG", "visitante": "Atalanta", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Brujas", "visitante": "Mónaco", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Copenhague", "visitante": "Bayer Leverkusen", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Eintracht Frankfurt", "visitante": "Galatasaray", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Manchester City", "visitante": "Nápoles", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Newcastle", "visitante": "Barcelona", "fecha": "2025-09-17T01:00:00" },
+      { "local": "Liverpool", "visitante": "At. Madrid", "fecha": "2025-09-17T01:00:00" }
     ]
-  }
-]
+  },
+  {
+    "numero": 7,
+    "partidos": [
+      { "local": "Alavés", "visitante": "Sevilla", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Barcelona", "visitante": "Getafe", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Betis", "visitante": "R. Sociedad", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Elche", "visitante": "Oviedo", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Girona", "visitante": "Levante", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Mallorca", "visitante": "At. Madrid", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Rayo V.", "visitante": "Celta", "fecha": "2025-09-21T22:00:00" },
+      { "local": "R. Madrid", "visitante": "Espanyol", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Villarreal", "visitante": "Osasuna", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Albacete", "visitante": "Valladolid", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Córdoba", "visitante": "Racing", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Deportivo", "visitante": "Huesca", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Almería", "visitante": "Sporting", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Málaga", "visitante": "Cádiz", "fecha": "2025-09-21T22:00:00" },
+      { "local": "Valencia", "visitante": "Athletic Club", "fecha": "2025-09-21T22:00:00" }
+    ]
+  },
+  {
+"numero": 8,
+  "partidos": [
+    { "local": "Athletic Club", "visitante": "Girona", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Espanyol", "visitante": "Valencia", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Levante", "visitante": "Real Madrid", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Sevilla", "visitante": "Villarreal", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Getafe", "visitante": "Alavés", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Oviedo", "visitante": "Barcelona", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Osasuna", "visitante": "Elche", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Real Sociedad", "visitante": "Mallorca", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Eibar", "visitante": "Córdoba", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Racing", "visitante": "Cádiz", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Albacete", "visitante": "Zaragoza", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Huesca", "visitante": "Mirandés", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Leganés", "visitante": "Málaga", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Burgos", "visitante": "Deportivo", "fecha": "2025-09-28T22:00:00" },
+    { "local": "Las Palmas", "visitante": "Almería", "fecha": "2025-09-28T22:00:00" } 
+    ]
+  },
+  {
+    "numero": 9,
+    "partidos": [
+      { "local": "Getafe", "visitante": "Levante", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Mallorca", "visitante": "Alavés", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Villarreal", "visitante": "Athletic Club", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Rayo V.", "visitante": "Sevilla", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Elche", "visitante": "Celta", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Betis", "visitante": "Osasuna", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Barcelona", "visitante": "R. Sociedad", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Valencia", "visitante": "Oviedo", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Eibar", "visitante": "Deportivo", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Racing", "visitante": "Andorra", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Las Palmas", "visitante": "Almería", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Burgos", "visitante": "Málaga", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Cádiz", "visitante": "Ceuta", "fecha": "2025-09-28T22:00:00" },
+      { "local": "Sporting", "visitante": "Albacete", "fecha": "2025-09-28T22:00:00" },
+      { "local": "At. Madrid", "visitante": "R. Madrid", "fecha": "2025-09-28T22:00:00" }
+    ]
+  },
+  {
+    "numero": 10,
+    "partidos": [
+      { "local": "Kairat Almaty", "visitante": "Real Madrid", "fecha": "2025-10-01T01:00:00" },
+      { "local": "At. Madrid", "visitante": "Eintracht Frankfurt", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Chelsea", "visitante": "Benfica", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Galatasaray", "visitante": "Liverpool", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Inter de Milán", "visitante": "Slavia Praga", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Marsella", "visitante": "Ajax", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Arsenal", "visitante": "Olympiacos", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Bayer Leverkusen", "visitante": "PSV", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Borussia Dortmund", "visitante": "Athletic Club", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Mónaco", "visitante": "Manchester City", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Nápoles", "visitante": "Sporting de Portugal", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Villarreal", "visitante": "Juventus", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Ludogorets", "visitante": "Betis", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Celta", "visitante": "Paok", "fecha": "2025-10-01T01:00:00" },
+      { "local": "Barcelona", "visitante": "PSG", "fecha": "2025-10-01T01:00:00" }
+    ]
+  },
+  {
+    "numero": 11,
+    "partidos": [
+      { "local": "Oviedo", "visitante": "Levante", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Girona", "visitante": "Valencia", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Athletic Club", "visitante": "Mallorca", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Real Madrid", "visitante": "Villarreal", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Sevilla", "visitante": "Barcelona", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Alavés", "visitante": "Elche", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Espanyol", "visitante": "Betis", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Real Sociedad", "visitante": "Rayo Vallecano", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Deportivo", "visitante": "Almería", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Andorra", "visitante": "Leganés", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Huesca", "visitante": "Burgos", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Zaragoza", "visitante": "Córdoba", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Racing", "visitante": "Málaga", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Las Palmas", "visitante": "Cádiz", "fecha": "2025-10-05T22:00:00" },
+      { "local": "Celta", "visitante": "At. Madrid", "fecha": "2025-10-05T22:00:00" }
+    ]
+  },
+  {
+"numero": 12,
+  "partidos": [
+    { "local": "Mirandés", "visitante": "Leganés", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Almería", "visitante": "Zaragoza", "fecha": "2025-10-12T22:00:00" },
+    { "local": "R. Sociedad B", "visitante": "Andorra", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Albacete", "visitante": "Ceuta", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Eibar", "visitante": "Castellón", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Sporting", "visitante": "Racing", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Burgos", "visitante": "Valladolid", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Cádiz", "visitante": "Huesca", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Málaga", "visitante": "Deportivo", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Córdoba", "visitante": "Cult.Leonesa", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Bulgaria", "visitante": "Turquía", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Dinamarca", "visitante": "Grecia", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Rumanía", "visitante": "Austria", "fecha": "2025-10-12T22:00:00" },
+    { "local": "Irlanda del Norte", "visitante": "Alemania", "fecha": "2025-10-12T22:00:00" },
+    { "local": "España", "visitante": "Georgia", "fecha": "2025-10-12T22:00:00" }
+  ]
+}
+
+
