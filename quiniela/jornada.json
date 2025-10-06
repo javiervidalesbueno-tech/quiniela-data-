@@ -2,31 +2,49 @@
   {
     "numero": 1,
     "partidos": [
-      {
-        "local": "Real Madrid",
-        "visitante": "Barcelona",
-        "fecha": "2025-10-10"
-      },
-      {
-        "local": "Valencia",
-        "visitante": "Sevilla",
-        "fecha": "2025-10-11"
-      }
+      { "local": "Real Madrid", "visitante": "Barcelona", "fecha": "2025-10-10" },
+      { "local": "Valencia", "visitante": "Sevilla", "fecha": "2025-10-11" },
+      { "local": "Betis", "visitante": "Atlético de Madrid", "fecha": "2025-10-12" }
     ]
   },
   {
     "numero": 2,
     "partidos": [
-      {
-        "local": "Betis",
-        "visitante": "Atlético de Madrid",
-        "fecha": "2025-10-17"
-      },
-      {
-        "local": "Osasuna",
-        "visitante": "Cádiz",
-        "fecha": "2025-10-18"
-      }
+      { "local": "Osasuna", "visitante": "Cádiz", "fecha": "2025-10-17" },
+      { "local": "Villarreal", "visitante": "Granada", "fecha": "2025-10-18" },
+      { "local": "Getafe", "visitante": "Alavés", "fecha": "2025-10-19" }
+    ]
+  },
+  {
+    "numero": 3,
+    "partidos": [
+      { "local": "Athletic Club", "visitante": "Girona", "fecha": "2025-10-24" },
+      { "local": "Mallorca", "visitante": "Las Palmas", "fecha": "2025-10-25" },
+      { "local": "Rayo Vallecano", "visitante": "Celta", "fecha": "2025-10-26" }
+    ]
+  },
+  {
+    "numero": 4,
+    "partidos": [
+      { "local": "Barcelona", "visitante": "Valencia", "fecha": "2025-10-31" },
+      { "local": "Sevilla", "visitante": "Real Madrid", "fecha": "2025-11-01" },
+      { "local": "Atlético de Madrid", "visitante": "Betis", "fecha": "2025-11-02" }
+    ]
+  },
+  {
+    "numero": 5,
+    "partidos": [
+      { "local": "Cádiz", "visitante": "Osasuna", "fecha": "2025-11-07" },
+      { "local": "Granada", "visitante": "Villarreal", "fecha": "2025-11-08" },
+      { "local": "Alavés", "visitante": "Getafe", "fecha": "2025-11-09" }
+    ]
+  },
+  {
+    "numero": 6,
+    "partidos": [
+      { "local": "Girona", "visitante": "Athletic Club", "fecha": "2025-11-14" },
+      { "local": "Las Palmas", "visitante": "Mallorca", "fecha": "2025-11-15" },
+      { "local": "Celta", "visitante": "Rayo Vallecano", "fecha": "2025-11-16" }
     ]
   }
 ]
