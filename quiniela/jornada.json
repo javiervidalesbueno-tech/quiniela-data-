@@ -1,29 +1,17 @@
-{
-  "project_info": {
-    "project_number": "806266477075",
-    "project_id": "quinielapredictor",
-    "storage_bucket": "quinielapredictor.firebasestorage.app"
+[
+  {
+    "local": "Real Madrid",
+    "visitante": "Barcelona",
+    "fecha": "2025-10-10"
   },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:806266477075:android:fccdd34f89bb84ef9a7de6",
-        "android_client_info": {
-          "package_name": "com.quiniela.predictor"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyA7WF1DjZAjBPkADilaBg1EyOC1UCNFAJw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
-}
+  {
+    "local": "Valencia",
+    "visitante": "Sevilla",
+    "fecha": "2025-10-11"
+  },
+  {
+    "local": "Betis",
+    "visitante": "Atlético de Madrid",
+    "fecha": "2025-10-12"
+  }
+]
