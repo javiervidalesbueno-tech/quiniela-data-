@@ -1,17 +1,32 @@
 [
   {
-    "local": "Real Madrid",
-    "visitante": "Barcelona",
-    "fecha": "2025-10-10"
+    "numero": 1,
+    "partidos": [
+      {
+        "local": "Real Madrid",
+        "visitante": "Barcelona",
+        "fecha": "2025-10-10"
+      },
+      {
+        "local": "Valencia",
+        "visitante": "Sevilla",
+        "fecha": "2025-10-11"
+      }
+    ]
   },
   {
-    "local": "Valencia",
-    "visitante": "Sevilla",
-    "fecha": "2025-10-11"
-  },
-  {
-    "local": "Betis",
-    "visitante": "Atlético de Madrid",
-    "fecha": "2025-10-12"
+    "numero": 2,
+    "partidos": [
+      {
+        "local": "Betis",
+        "visitante": "Atlético de Madrid",
+        "fecha": "2025-10-17"
+      },
+      {
+        "local": "Osasuna",
+        "visitante": "Cádiz",
+        "fecha": "2025-10-18"
+      }
+    ]
   }
 ]
